@@ -1,4 +1,4 @@
-﻿package com.github.catvod.spider;
+package com.github.catvod.spider;
 
 import android.content.Context;
 import com.github.catvod.crawler.Spider;
@@ -12,10 +12,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.net.URLEncoder;
-import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
-import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
